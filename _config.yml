@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            sujith3g
-tagline:          'My Blog'
-description:      'A Blog using Markdown and text editor'
-url:              http://sujith3g.github.io
+title:            "Tkay's"
+tagline:          ' Blog'
+description:      'Web & Linux workarounds'
+url:              http://arunhedcet.github.io
 
 author:
-  name:           'Sujith G'
-  url:            https://github.com/sujith3g
+  name:           'Arun Kumar TK'
+  url:            https://github.com/arunhedcet
 
 paginate:         5
 
@@ -21,4 +21,4 @@ paginate:         5
 version:          2.0.0
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/arunhedcet/arunhedcet.github.io
