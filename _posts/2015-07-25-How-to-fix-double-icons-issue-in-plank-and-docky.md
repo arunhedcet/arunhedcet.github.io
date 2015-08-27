@@ -17,7 +17,7 @@ The desktop file corresponding to terminator should be renamed to x-terminal-emu
 
 The same issue can be seen with google chrome browser. To solve this you should rename the google-chrome.desktop file into google-chrome-stable.desktop.
 
-    sudo mv /usr/share/applications/terminator.desktop /usr/share/applications/x    -terminal-emulator.desktop
+    sudo mv /usr/share/applications/google-chrome.desktop /usr/share/applications/google-chrome-stable.desktop
 
 Remove the chrome icon and add it from unity dash. You can use the same workaround for other applications also. Just find out if any other executable is running when you run the application.
 
