@@ -4,7 +4,7 @@ comments: true
 title: How to fix double icons issue in plank/docky for google chrome and terminator
 ---
 
-** docky/plank double icon issue **
+docky/plank double icon issue
 =========================
 
 You might have come across this issue while using docky/plank. You try open an application clicking on the icon in plank and out of nowhere another icon which looks different appears as the running app's icon. I've noticed this issue with two of my favorite apps terminator and google chrome.
